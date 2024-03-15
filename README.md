@@ -1,9 +1,8 @@
 # workshop1
 Trabajo clase modelos de programación 1
 
-
-
-
+Se requiere hacer un sistema para catalogar vehiculos , para hacerlo se crean 3 clases llamadas engine, propierties y 
+vehicles, donde propierties tendra herencia de engine y vehivle tendra herencia de propierties 
 
 
 __Clase Engine__
